@@ -1,0 +1,8 @@
+C:\Personal\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.deps.json
+C:\Personal\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.json
+C:\Personal\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.dev.json
+C:\Personal\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.dll
+C:\Personal\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csprojAssemblyReference.cache
+C:\Personal\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Personal\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfoInputs.cache
+C:\Personal\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfo.cs
